@@ -1,8 +1,8 @@
 a = "incrível"
 print("Python é " + a)
 
-nome = "Gabriel "
-sobrenome = "Artigas"
+nome = "Elcio"
+sobrenome = "Lucena"
 nomeCompleto = nome + sobrenome
 
 print(nomeCompleto)

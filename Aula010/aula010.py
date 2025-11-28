@@ -8,7 +8,7 @@
 
 #### Definir o tipo de dados ####
 
-x = "Hello World" # str
+x = "Hello World!" # str
 x = 20 # int
 x = 20.5 # float
 x = 1j # complex
@@ -25,7 +25,7 @@ x = memoryview(bytes(5)) # memoryview
 
 #### Configurando o Tipo de Dados Específico ####
 
-x = str("Hello World") # str
+x = str("Hello World!") # str
 x = int(20)	# int
 x = float(20.5) # float
 x = complex(1j)	# complex

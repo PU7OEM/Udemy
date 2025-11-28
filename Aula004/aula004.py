@@ -3,12 +3,9 @@ print("Olá Mundo!")  # Isto é um comentário;
 
 # print("Seja bem-vindo!")
 
-# Isto é um
-# Comentário
-# em várias linhas;
-
 """
-Isto é uma 'string'
-de múltiplas linhas, usada como
-bloco de comentário;
+Este é um comentário de várias linhas
+usando aspas triplas.
+Ele pode ser usado para documentação ou blocos de código comentados.
+
 """

@@ -10,9 +10,9 @@
 # print(type(y))
 # print(type(z))
 
-a = str(3)  # a será "3";
-b = int(3)  # b será '3';
-c = float(3)  # c será '3.0';
+a = str(3)  # a vale "3";
+b = int(3)  # b vale '3';
+c = float(3)  # c vale '3.0';
 
 d = 4
 D = "Danny"
